@@ -1,0 +1,21 @@
+Configuration Details:
+    =====================
+    Data Path: /home/ncostagliola/Jupyter_Notebook/ACI-Dataset/ACI-IoT-2023-Payload-training.csv
+    Output Path: output
+    End Layer: False
+    Device: cuda
+    Benchmark Selection: 3
+    Max Class Size: 5000
+    Min Class Size: 1000
+    Training Mini-batch Size: 100
+    Training Epochs: 10
+    Evaluation Mini-batch Size: 100
+    Learning Rate: 0.005
+    Use Test-Time Adaptation: False
+    Weight Shift Factor: 0
+    Logit Shift Factor: 0
+    Normalize Weights: False
+    Strategy: Replay
+    Plugin: False
+    Memory Size: 100
+    

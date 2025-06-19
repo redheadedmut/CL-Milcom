@@ -1,0 +1,277 @@
+[
+    {
+        "config_id": 0,
+        "experience": 0,
+        "config": {
+            "USE_TTA": true,
+            "STRATEGY": "Replay",
+            "PLUGIN": true,
+            "MEM_SIZE": 100
+        },
+        "accuracy": 0.8803589232303091,
+        "loss": 0.8580913366099803,
+        "forgetting": 0
+    },
+    {
+        "config_id": 0,
+        "experience": 1,
+        "config": {
+            "USE_TTA": true,
+            "STRATEGY": "Replay",
+            "PLUGIN": true,
+            "MEM_SIZE": 100
+        },
+        "accuracy": 0.8923230309072782,
+        "loss": 0.9696844059576308,
+        "forgetting": 0
+    },
+    {
+        "config_id": 0,
+        "experience": 2,
+        "config": {
+            "USE_TTA": true,
+            "STRATEGY": "Replay",
+            "PLUGIN": true,
+            "MEM_SIZE": 100
+        },
+        "accuracy": 0.8821867730142905,
+        "loss": 1.067557325366286,
+        "forgetting": 0
+    },
+    {
+        "config_id": 0,
+        "experience": 3,
+        "config": {
+            "USE_TTA": true,
+            "STRATEGY": "Replay",
+            "PLUGIN": true,
+            "MEM_SIZE": 100
+        },
+        "accuracy": 0.8934862080425391,
+        "loss": 2.048858534558318,
+        "forgetting": 0
+    },
+    {
+        "config_id": 0,
+        "experience": 4,
+        "config": {
+            "USE_TTA": true,
+            "STRATEGY": "Replay",
+            "PLUGIN": true,
+            "MEM_SIZE": 100
+        },
+        "accuracy": 0.8870056497175142,
+        "loss": 0.5659218019912903,
+        "forgetting": 0
+    },
+    {
+        "config_id": 0,
+        "experience": 5,
+        "config": {
+            "USE_TTA": true,
+            "STRATEGY": "Replay",
+            "PLUGIN": true,
+            "MEM_SIZE": 100
+        },
+        "accuracy": 0.8763708873379861,
+        "loss": 0.6355170849374838,
+        "forgetting": 0
+    },
+    {
+        "config_id": 0,
+        "experience": 6,
+        "config": {
+            "USE_TTA": true,
+            "STRATEGY": "Replay",
+            "PLUGIN": true,
+            "MEM_SIZE": 100
+        },
+        "accuracy": 0.8939847125290794,
+        "loss": 0.48173559985973563,
+        "forgetting": 0
+    },
+    {
+        "config_id": 0,
+        "experience": 7,
+        "config": {
+            "USE_TTA": true,
+            "STRATEGY": "Replay",
+            "PLUGIN": true,
+            "MEM_SIZE": 100
+        },
+        "accuracy": 0.8840146227982718,
+        "loss": 0.6198540165296399,
+        "forgetting": 0
+    },
+    {
+        "config_id": 0,
+        "experience": 8,
+        "config": {
+            "USE_TTA": true,
+            "STRATEGY": "Replay",
+            "PLUGIN": true,
+            "MEM_SIZE": 100
+        },
+        "accuracy": 0.8936523762047192,
+        "loss": 0.6753627634728032,
+        "forgetting": 0
+    },
+    {
+        "config_id": 0,
+        "experience": 9,
+        "config": {
+            "USE_TTA": true,
+            "STRATEGY": "Replay",
+            "PLUGIN": true,
+            "MEM_SIZE": 100
+        },
+        "accuracy": 0.9308740445330674,
+        "loss": 0.4804653604892321,
+        "forgetting": 0
+    },
+    {
+        "config_id": 0,
+        "experience": 10,
+        "config": {
+            "USE_TTA": true,
+            "STRATEGY": "Replay",
+            "PLUGIN": true,
+            "MEM_SIZE": 100
+        },
+        "accuracy": 0.942173479561316,
+        "loss": 0.20244246841574487,
+        "forgetting": 0
+    },
+    {
+        "config_id": 1,
+        "experience": 0,
+        "config": {
+            "USE_TTA": false,
+            "STRATEGY": "Naive",
+            "PLUGIN": false
+        },
+        "accuracy": 0.8983050847457628,
+        "loss": 0.29388960086231386,
+        "forgetting": 0
+    },
+    {
+        "config_id": 1,
+        "experience": 1,
+        "config": {
+            "USE_TTA": false,
+            "STRATEGY": "Naive",
+            "PLUGIN": false
+        },
+        "accuracy": 0.3735460285809239,
+        "loss": 16.155802546994835,
+        "forgetting": 0
+    },
+    {
+        "config_id": 1,
+        "experience": 2,
+        "config": {
+            "USE_TTA": false,
+            "STRATEGY": "Naive",
+            "PLUGIN": false
+        },
+        "accuracy": 0.48703888334995016,
+        "loss": 26.0853236339326,
+        "forgetting": 0
+    },
+    {
+        "config_id": 1,
+        "experience": 3,
+        "config": {
+            "USE_TTA": false,
+            "STRATEGY": "Naive",
+            "PLUGIN": false
+        },
+        "accuracy": 0.09687603855101362,
+        "loss": 282.1480046304685,
+        "forgetting": 0
+    },
+    {
+        "config_id": 1,
+        "experience": 4,
+        "config": {
+            "USE_TTA": false,
+            "STRATEGY": "Naive",
+            "PLUGIN": false
+        },
+        "accuracy": 0.11847789963443005,
+        "loss": 237.97679751273523,
+        "forgetting": 0
+    },
+    {
+        "config_id": 1,
+        "experience": 5,
+        "config": {
+            "USE_TTA": false,
+            "STRATEGY": "Naive",
+            "PLUGIN": false
+        },
+        "accuracy": 0.10186108341641742,
+        "loss": 597.9069703451697,
+        "forgetting": 0
+    },
+    {
+        "config_id": 1,
+        "experience": 6,
+        "config": {
+            "USE_TTA": false,
+            "STRATEGY": "Naive",
+            "PLUGIN": false
+        },
+        "accuracy": 0.10319042871385843,
+        "loss": 1576.7294943832646,
+        "forgetting": 0
+    },
+    {
+        "config_id": 1,
+        "experience": 7,
+        "config": {
+            "USE_TTA": false,
+            "STRATEGY": "Naive",
+            "PLUGIN": false
+        },
+        "accuracy": 0.11282818212030575,
+        "loss": 371.0738004910744,
+        "forgetting": 0
+    },
+    {
+        "config_id": 1,
+        "experience": 8,
+        "config": {
+            "USE_TTA": false,
+            "STRATEGY": "Naive",
+            "PLUGIN": false
+        },
+        "accuracy": 0.12097042206713193,
+        "loss": 95.17542689961427,
+        "forgetting": 0
+    },
+    {
+        "config_id": 1,
+        "experience": 9,
+        "config": {
+            "USE_TTA": false,
+            "STRATEGY": "Naive",
+            "PLUGIN": false
+        },
+        "accuracy": 0.2161847789963443,
+        "loss": 38.723479495745,
+        "forgetting": 0
+    },
+    {
+        "config_id": 1,
+        "experience": 10,
+        "config": {
+            "USE_TTA": false,
+            "STRATEGY": "Naive",
+            "PLUGIN": false
+        },
+        "accuracy": 0.09970089730807577,
+        "loss": 92.26515735989801,
+        "forgetting": 0
+    }
+]

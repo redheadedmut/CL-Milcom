@@ -1,0 +1,871 @@
+[
+    {
+        "config_id": 0,
+        "experience": 0,
+        "config": {
+            "NAME": "Replay",
+            "USE_TTA": false,
+            "STRATEGY": "Replay",
+            "PLUGIN": false,
+            "MEM_SIZE": 100,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.9710867397806581,
+        "loss": 0.14236788096867956,
+        "forgetting": 0
+    },
+    {
+        "config_id": 0,
+        "experience": 1,
+        "config": {
+            "NAME": "Replay",
+            "USE_TTA": false,
+            "STRATEGY": "Replay",
+            "PLUGIN": false,
+            "MEM_SIZE": 100,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.9739115985377201,
+        "loss": 0.2674055687939329,
+        "forgetting": 0
+    },
+    {
+        "config_id": 0,
+        "experience": 2,
+        "config": {
+            "NAME": "Replay",
+            "USE_TTA": false,
+            "STRATEGY": "Replay",
+            "PLUGIN": false,
+            "MEM_SIZE": 100,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.9567962778331671,
+        "loss": 0.20683989536986508,
+        "forgetting": 0
+    },
+    {
+        "config_id": 0,
+        "experience": 3,
+        "config": {
+            "NAME": "Replay",
+            "USE_TTA": false,
+            "STRATEGY": "Replay",
+            "PLUGIN": false,
+            "MEM_SIZE": 100,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.9270521768029245,
+        "loss": 0.5149872943995606,
+        "forgetting": 0
+    },
+    {
+        "config_id": 0,
+        "experience": 4,
+        "config": {
+            "NAME": "Replay",
+            "USE_TTA": false,
+            "STRATEGY": "Replay",
+            "PLUGIN": false,
+            "MEM_SIZE": 100,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.8305084745762712,
+        "loss": 2.879797486515791,
+        "forgetting": 0
+    },
+    {
+        "config_id": 0,
+        "experience": 5,
+        "config": {
+            "NAME": "Replay",
+            "USE_TTA": false,
+            "STRATEGY": "Replay",
+            "PLUGIN": false,
+            "MEM_SIZE": 100,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.8489531405782652,
+        "loss": 2.53002202412332,
+        "forgetting": 0
+    },
+    {
+        "config_id": 0,
+        "experience": 6,
+        "config": {
+            "NAME": "Replay",
+            "USE_TTA": false,
+            "STRATEGY": "Replay",
+            "PLUGIN": false,
+            "MEM_SIZE": 100,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.8722166832834829,
+        "loss": 2.6615282089081767,
+        "forgetting": 0
+    },
+    {
+        "config_id": 0,
+        "experience": 7,
+        "config": {
+            "NAME": "Replay",
+            "USE_TTA": false,
+            "STRATEGY": "Replay",
+            "PLUGIN": false,
+            "MEM_SIZE": 100,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.8732136922565636,
+        "loss": 2.6933263720039013,
+        "forgetting": 0
+    },
+    {
+        "config_id": 0,
+        "experience": 8,
+        "config": {
+            "NAME": "Replay",
+            "USE_TTA": false,
+            "STRATEGY": "Replay",
+            "PLUGIN": false,
+            "MEM_SIZE": 100,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.8742107012296444,
+        "loss": 1.5989406394793368,
+        "forgetting": 0
+    },
+    {
+        "config_id": 0,
+        "experience": 9,
+        "config": {
+            "NAME": "Replay",
+            "USE_TTA": false,
+            "STRATEGY": "Replay",
+            "PLUGIN": false,
+            "MEM_SIZE": 100,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.9019607843137255,
+        "loss": 0.792819075277428,
+        "forgetting": 0
+    },
+    {
+        "config_id": 0,
+        "experience": 10,
+        "config": {
+            "NAME": "Replay",
+            "USE_TTA": false,
+            "STRATEGY": "Replay",
+            "PLUGIN": false,
+            "MEM_SIZE": 100,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.9637753406447325,
+        "loss": 0.28835994732533743,
+        "forgetting": 0
+    },
+    {
+        "config_id": 1,
+        "experience": 0,
+        "config": {
+            "NAME": "Baseline",
+            "USE_TTA": false,
+            "STRATEGY": "Naive",
+            "PLUGIN": false,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.9506480558325024,
+        "loss": 0.2141373115967429,
+        "forgetting": 0
+    },
+    {
+        "config_id": 1,
+        "experience": 1,
+        "config": {
+            "NAME": "Baseline",
+            "USE_TTA": false,
+            "STRATEGY": "Naive",
+            "PLUGIN": false,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.9260551678298438,
+        "loss": 0.2639883845128793,
+        "forgetting": 0
+    },
+    {
+        "config_id": 1,
+        "experience": 2,
+        "config": {
+            "NAME": "Baseline",
+            "USE_TTA": false,
+            "STRATEGY": "Naive",
+            "PLUGIN": false,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.9067796610169492,
+        "loss": 0.5056592634301468,
+        "forgetting": 0
+    },
+    {
+        "config_id": 1,
+        "experience": 3,
+        "config": {
+            "NAME": "Baseline",
+            "USE_TTA": false,
+            "STRATEGY": "Naive",
+            "PLUGIN": false,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.8971419076105018,
+        "loss": 0.7306315710337449,
+        "forgetting": 0
+    },
+    {
+        "config_id": 1,
+        "experience": 4,
+        "config": {
+            "NAME": "Baseline",
+            "USE_TTA": false,
+            "STRATEGY": "Naive",
+            "PLUGIN": false,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.8570953805250914,
+        "loss": 1.3628474452846822,
+        "forgetting": 0
+    },
+    {
+        "config_id": 1,
+        "experience": 5,
+        "config": {
+            "NAME": "Baseline",
+            "USE_TTA": false,
+            "STRATEGY": "Naive",
+            "PLUGIN": false,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.8590893984712529,
+        "loss": 1.0735286690700125,
+        "forgetting": 0
+    },
+    {
+        "config_id": 1,
+        "experience": 6,
+        "config": {
+            "NAME": "Baseline",
+            "USE_TTA": false,
+            "STRATEGY": "Naive",
+            "PLUGIN": false,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.8574277168494516,
+        "loss": 0.9769925537584973,
+        "forgetting": 0
+    },
+    {
+        "config_id": 1,
+        "experience": 7,
+        "config": {
+            "NAME": "Baseline",
+            "USE_TTA": false,
+            "STRATEGY": "Naive",
+            "PLUGIN": false,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.8989697573944833,
+        "loss": 1.380816193611941,
+        "forgetting": 0
+    },
+    {
+        "config_id": 1,
+        "experience": 8,
+        "config": {
+            "NAME": "Baseline",
+            "USE_TTA": false,
+            "STRATEGY": "Naive",
+            "PLUGIN": false,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.8974742439348621,
+        "loss": 0.29340368080438556,
+        "forgetting": 0
+    },
+    {
+        "config_id": 1,
+        "experience": 9,
+        "config": {
+            "NAME": "Baseline",
+            "USE_TTA": false,
+            "STRATEGY": "Naive",
+            "PLUGIN": false,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.9426719840478565,
+        "loss": 0.12269940303562375,
+        "forgetting": 0
+    },
+    {
+        "config_id": 1,
+        "experience": 10,
+        "config": {
+            "NAME": "Baseline",
+            "USE_TTA": false,
+            "STRATEGY": "Naive",
+            "PLUGIN": false,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.9426719840478565,
+        "loss": 0.12115190260625251,
+        "forgetting": 0
+    },
+    {
+        "config_id": 2,
+        "experience": 0,
+        "config": {
+            "NAME": "Replay + Dynamic Buffer",
+            "USE_TTA": false,
+            "STRATEGY": "Replay",
+            "PLUGIN": true,
+            "MEM_SIZE": 50,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.730142904619475,
+        "loss": 0.8737163686316698,
+        "forgetting": 0
+    },
+    {
+        "config_id": 2,
+        "experience": 1,
+        "config": {
+            "NAME": "Replay + Dynamic Buffer",
+            "USE_TTA": false,
+            "STRATEGY": "Replay",
+            "PLUGIN": true,
+            "MEM_SIZE": 50,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.8113991359255567,
+        "loss": 5.16546792033249,
+        "forgetting": 0
+    },
+    {
+        "config_id": 2,
+        "experience": 2,
+        "config": {
+            "NAME": "Replay + Dynamic Buffer",
+            "USE_TTA": false,
+            "STRATEGY": "Replay",
+            "PLUGIN": true,
+            "MEM_SIZE": 50,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.8112329677633765,
+        "loss": 11.298059169955769,
+        "forgetting": 0
+    },
+    {
+        "config_id": 2,
+        "experience": 3,
+        "config": {
+            "NAME": "Replay + Dynamic Buffer",
+            "USE_TTA": false,
+            "STRATEGY": "Replay",
+            "PLUGIN": true,
+            "MEM_SIZE": 50,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.8555998670654703,
+        "loss": 1.3425632856856378,
+        "forgetting": 0
+    },
+    {
+        "config_id": 2,
+        "experience": 4,
+        "config": {
+            "NAME": "Replay + Dynamic Buffer",
+            "USE_TTA": false,
+            "STRATEGY": "Replay",
+            "PLUGIN": true,
+            "MEM_SIZE": 50,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.713193752077102,
+        "loss": 1.4042729187903071,
+        "forgetting": 0
+    },
+    {
+        "config_id": 2,
+        "experience": 5,
+        "config": {
+            "NAME": "Replay + Dynamic Buffer",
+            "USE_TTA": false,
+            "STRATEGY": "Replay",
+            "PLUGIN": true,
+            "MEM_SIZE": 50,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.8089066134928548,
+        "loss": 1.5833821046084573,
+        "forgetting": 0
+    },
+    {
+        "config_id": 2,
+        "experience": 6,
+        "config": {
+            "NAME": "Replay + Dynamic Buffer",
+            "USE_TTA": false,
+            "STRATEGY": "Replay",
+            "PLUGIN": true,
+            "MEM_SIZE": 50,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.7801595214356929,
+        "loss": 1.8752293641175888,
+        "forgetting": 0
+    },
+    {
+        "config_id": 2,
+        "experience": 7,
+        "config": {
+            "NAME": "Replay + Dynamic Buffer",
+            "USE_TTA": false,
+            "STRATEGY": "Replay",
+            "PLUGIN": true,
+            "MEM_SIZE": 50,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.807909604519774,
+        "loss": 2.23817275503118,
+        "forgetting": 0
+    },
+    {
+        "config_id": 2,
+        "experience": 8,
+        "config": {
+            "NAME": "Replay + Dynamic Buffer",
+            "USE_TTA": false,
+            "STRATEGY": "Replay",
+            "PLUGIN": true,
+            "MEM_SIZE": 50,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.8295114656031904,
+        "loss": 1.9395037926122944,
+        "forgetting": 0
+    },
+    {
+        "config_id": 2,
+        "experience": 9,
+        "config": {
+            "NAME": "Replay + Dynamic Buffer",
+            "USE_TTA": false,
+            "STRATEGY": "Replay",
+            "PLUGIN": true,
+            "MEM_SIZE": 50,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.7936191425722832,
+        "loss": 0.9051859462238333,
+        "forgetting": 0
+    },
+    {
+        "config_id": 2,
+        "experience": 10,
+        "config": {
+            "NAME": "Replay + Dynamic Buffer",
+            "USE_TTA": false,
+            "STRATEGY": "Replay",
+            "PLUGIN": true,
+            "MEM_SIZE": 50,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.8452974410103025,
+        "loss": 0.6315757710940737,
+        "forgetting": 0
+    },
+    {
+        "config_id": 3,
+        "experience": 0,
+        "config": {
+            "NAME": "Replay + Logit Shift",
+            "USE_TTA": false,
+            "STRATEGY": "Replay",
+            "PLUGIN": false,
+            "MEM_SIZE": 100,
+            "LOGIT_SHIFT_FACTOR": 1.0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.8627450980392157,
+        "loss": 0.5096370908390911,
+        "forgetting": 0
+    },
+    {
+        "config_id": 3,
+        "experience": 1,
+        "config": {
+            "NAME": "Replay + Logit Shift",
+            "USE_TTA": false,
+            "STRATEGY": "Replay",
+            "PLUGIN": false,
+            "MEM_SIZE": 100,
+            "LOGIT_SHIFT_FACTOR": 1.0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.8863409770687937,
+        "loss": 0.5388776892566408,
+        "forgetting": 0
+    },
+    {
+        "config_id": 3,
+        "experience": 2,
+        "config": {
+            "NAME": "Replay + Logit Shift",
+            "USE_TTA": false,
+            "STRATEGY": "Replay",
+            "PLUGIN": false,
+            "MEM_SIZE": 100,
+            "LOGIT_SHIFT_FACTOR": 1.0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.9037886340977069,
+        "loss": 1.0801686037145113,
+        "forgetting": 0
+    },
+    {
+        "config_id": 3,
+        "experience": 3,
+        "config": {
+            "NAME": "Replay + Logit Shift",
+            "USE_TTA": false,
+            "STRATEGY": "Replay",
+            "PLUGIN": false,
+            "MEM_SIZE": 100,
+            "LOGIT_SHIFT_FACTOR": 1.0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.8388168826852775,
+        "loss": 1.198811940323123,
+        "forgetting": 0
+    },
+    {
+        "config_id": 3,
+        "experience": 4,
+        "config": {
+            "NAME": "Replay + Logit Shift",
+            "USE_TTA": false,
+            "STRATEGY": "Replay",
+            "PLUGIN": false,
+            "MEM_SIZE": 100,
+            "LOGIT_SHIFT_FACTOR": 1.0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.8042539049518113,
+        "loss": 0.5706060216291595,
+        "forgetting": 0
+    },
+    {
+        "config_id": 3,
+        "experience": 5,
+        "config": {
+            "NAME": "Replay + Logit Shift",
+            "USE_TTA": false,
+            "STRATEGY": "Replay",
+            "PLUGIN": false,
+            "MEM_SIZE": 100,
+            "LOGIT_SHIFT_FACTOR": 1.0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.9336989032901296,
+        "loss": 0.2833782382883478,
+        "forgetting": 0
+    },
+    {
+        "config_id": 3,
+        "experience": 6,
+        "config": {
+            "NAME": "Replay + Logit Shift",
+            "USE_TTA": false,
+            "STRATEGY": "Replay",
+            "PLUGIN": false,
+            "MEM_SIZE": 100,
+            "LOGIT_SHIFT_FACTOR": 1.0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.9336989032901296,
+        "loss": 0.24822485351130058,
+        "forgetting": 0
+    },
+    {
+        "config_id": 3,
+        "experience": 7,
+        "config": {
+            "NAME": "Replay + Logit Shift",
+            "USE_TTA": false,
+            "STRATEGY": "Replay",
+            "PLUGIN": false,
+            "MEM_SIZE": 100,
+            "LOGIT_SHIFT_FACTOR": 1.0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.9336989032901296,
+        "loss": 0.2927821186680873,
+        "forgetting": 0
+    },
+    {
+        "config_id": 3,
+        "experience": 8,
+        "config": {
+            "NAME": "Replay + Logit Shift",
+            "USE_TTA": false,
+            "STRATEGY": "Replay",
+            "PLUGIN": false,
+            "MEM_SIZE": 100,
+            "LOGIT_SHIFT_FACTOR": 1.0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.9333665669657694,
+        "loss": 0.5644207631985352,
+        "forgetting": 0
+    },
+    {
+        "config_id": 3,
+        "experience": 9,
+        "config": {
+            "NAME": "Replay + Logit Shift",
+            "USE_TTA": false,
+            "STRATEGY": "Replay",
+            "PLUGIN": false,
+            "MEM_SIZE": 100,
+            "LOGIT_SHIFT_FACTOR": 1.0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.9436689930209372,
+        "loss": 0.15056328792320173,
+        "forgetting": 0
+    },
+    {
+        "config_id": 3,
+        "experience": 10,
+        "config": {
+            "NAME": "Replay + Logit Shift",
+            "USE_TTA": false,
+            "STRATEGY": "Replay",
+            "PLUGIN": false,
+            "MEM_SIZE": 100,
+            "LOGIT_SHIFT_FACTOR": 1.0,
+            "WEIGHT_SHIFT_FACTOR": 0
+        },
+        "accuracy": 0.9415088069125955,
+        "loss": 0.47162108081154186,
+        "forgetting": 0
+    },
+    {
+        "config_id": 4,
+        "experience": 0,
+        "config": {
+            "NAME": "Replay + Weight Shift",
+            "USE_TTA": true,
+            "STRATEGY": "Replay",
+            "PLUGIN": false,
+            "MEM_SIZE": 100,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 1.0
+        },
+        "accuracy": 0.8192090395480226,
+        "loss": 1.0539647260369425,
+        "forgetting": 0
+    },
+    {
+        "config_id": 4,
+        "experience": 1,
+        "config": {
+            "NAME": "Replay + Weight Shift",
+            "USE_TTA": true,
+            "STRATEGY": "Replay",
+            "PLUGIN": false,
+            "MEM_SIZE": 100,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 1.0
+        },
+        "accuracy": 0.9019607843137255,
+        "loss": 0.3189603564818161,
+        "forgetting": 0
+    },
+    {
+        "config_id": 4,
+        "experience": 2,
+        "config": {
+            "NAME": "Replay + Weight Shift",
+            "USE_TTA": true,
+            "STRATEGY": "Replay",
+            "PLUGIN": false,
+            "MEM_SIZE": 100,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 1.0
+        },
+        "accuracy": 0.8414755732801595,
+        "loss": 0.7853251605453881,
+        "forgetting": 0
+    },
+    {
+        "config_id": 4,
+        "experience": 3,
+        "config": {
+            "NAME": "Replay + Weight Shift",
+            "USE_TTA": true,
+            "STRATEGY": "Replay",
+            "PLUGIN": false,
+            "MEM_SIZE": 100,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 1.0
+        },
+        "accuracy": 0.8010967098703888,
+        "loss": 0.7043626157466965,
+        "forgetting": 0
+    },
+    {
+        "config_id": 4,
+        "experience": 4,
+        "config": {
+            "NAME": "Replay + Weight Shift",
+            "USE_TTA": true,
+            "STRATEGY": "Replay",
+            "PLUGIN": false,
+            "MEM_SIZE": 100,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 1.0
+        },
+        "accuracy": 0.8231970754403456,
+        "loss": 0.7687667857067366,
+        "forgetting": 0
+    },
+    {
+        "config_id": 4,
+        "experience": 5,
+        "config": {
+            "NAME": "Replay + Weight Shift",
+            "USE_TTA": true,
+            "STRATEGY": "Replay",
+            "PLUGIN": false,
+            "MEM_SIZE": 100,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 1.0
+        },
+        "accuracy": 0.8554336989032901,
+        "loss": 0.5583301838046864,
+        "forgetting": 0
+    },
+    {
+        "config_id": 4,
+        "experience": 6,
+        "config": {
+            "NAME": "Replay + Weight Shift",
+            "USE_TTA": true,
+            "STRATEGY": "Replay",
+            "PLUGIN": false,
+            "MEM_SIZE": 100,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 1.0
+        },
+        "accuracy": 0.8620804253904952,
+        "loss": 0.9827768085228075,
+        "forgetting": 0
+    },
+    {
+        "config_id": 4,
+        "experience": 7,
+        "config": {
+            "NAME": "Replay + Weight Shift",
+            "USE_TTA": true,
+            "STRATEGY": "Replay",
+            "PLUGIN": false,
+            "MEM_SIZE": 100,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 1.0
+        },
+        "accuracy": 0.8620804253904952,
+        "loss": 0.5512837346875111,
+        "forgetting": 0
+    },
+    {
+        "config_id": 4,
+        "experience": 8,
+        "config": {
+            "NAME": "Replay + Weight Shift",
+            "USE_TTA": true,
+            "STRATEGY": "Replay",
+            "PLUGIN": false,
+            "MEM_SIZE": 100,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 1.0
+        },
+        "accuracy": 0.8222000664672648,
+        "loss": 0.785463077710095,
+        "forgetting": 0
+    },
+    {
+        "config_id": 4,
+        "experience": 9,
+        "config": {
+            "NAME": "Replay + Weight Shift",
+            "USE_TTA": true,
+            "STRATEGY": "Replay",
+            "PLUGIN": false,
+            "MEM_SIZE": 100,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 1.0
+        },
+        "accuracy": 0.7892987703555999,
+        "loss": 0.6341799510453073,
+        "forgetting": 0
+    },
+    {
+        "config_id": 4,
+        "experience": 10,
+        "config": {
+            "NAME": "Replay + Weight Shift",
+            "USE_TTA": true,
+            "STRATEGY": "Replay",
+            "PLUGIN": false,
+            "MEM_SIZE": 100,
+            "LOGIT_SHIFT_FACTOR": 0,
+            "WEIGHT_SHIFT_FACTOR": 1.0
+        },
+        "accuracy": 0.8173811897640412,
+        "loss": 0.4761074147154457,
+        "forgetting": 0
+    }
+]

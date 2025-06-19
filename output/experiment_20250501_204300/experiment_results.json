@@ -1,0 +1,222 @@
+[
+    {
+        "config_id": 0,
+        "experience": 0,
+        "config": {
+            "USE_TTA": true
+        },
+        "accuracy": 0.9209039548022598,
+        "loss": 0.4450800610094625,
+        "forgetting": 0
+    },
+    {
+        "config_id": 0,
+        "experience": 1,
+        "config": {
+            "USE_TTA": true
+        },
+        "accuracy": 0.9810568295114656,
+        "loss": 0.08485551952714372,
+        "forgetting": 0
+    },
+    {
+        "config_id": 0,
+        "experience": 2,
+        "config": {
+            "USE_TTA": true
+        },
+        "accuracy": 0.9599534729145895,
+        "loss": 0.7202141911571014,
+        "forgetting": 0
+    },
+    {
+        "config_id": 0,
+        "experience": 3,
+        "config": {
+            "USE_TTA": true
+        },
+        "accuracy": 0.9002991026919243,
+        "loss": 11.178901042455992,
+        "forgetting": 0
+    },
+    {
+        "config_id": 0,
+        "experience": 4,
+        "config": {
+            "USE_TTA": true
+        },
+        "accuracy": 0.8148886673313394,
+        "loss": 19.191331368179895,
+        "forgetting": 0
+    },
+    {
+        "config_id": 0,
+        "experience": 5,
+        "config": {
+            "USE_TTA": true
+        },
+        "accuracy": 0.8040877367896311,
+        "loss": 18.745994857984538,
+        "forgetting": 0
+    },
+    {
+        "config_id": 0,
+        "experience": 6,
+        "config": {
+            "USE_TTA": true
+        },
+        "accuracy": 0.8152210036556996,
+        "loss": 18.739417038309092,
+        "forgetting": 0
+    },
+    {
+        "config_id": 0,
+        "experience": 7,
+        "config": {
+            "USE_TTA": true
+        },
+        "accuracy": 0.7748421402459289,
+        "loss": 26.111021746099535,
+        "forgetting": 0
+    },
+    {
+        "config_id": 0,
+        "experience": 8,
+        "config": {
+            "USE_TTA": true
+        },
+        "accuracy": 0.7324692588899967,
+        "loss": 14.138216591983335,
+        "forgetting": 0
+    },
+    {
+        "config_id": 0,
+        "experience": 9,
+        "config": {
+            "USE_TTA": true
+        },
+        "accuracy": 0.843469591226321,
+        "loss": 4.997828985589424,
+        "forgetting": 0
+    },
+    {
+        "config_id": 0,
+        "experience": 10,
+        "config": {
+            "USE_TTA": true
+        },
+        "accuracy": 0.9037886340977069,
+        "loss": 2.599270637420544,
+        "forgetting": 0
+    },
+    {
+        "config_id": 1,
+        "experience": 0,
+        "config": {
+            "USE_TTA": false
+        },
+        "accuracy": 0.9680957128614157,
+        "loss": 0.11635944641102151,
+        "forgetting": 0
+    },
+    {
+        "config_id": 1,
+        "experience": 1,
+        "config": {
+            "USE_TTA": false
+        },
+        "accuracy": 0.9818876703223662,
+        "loss": 0.17869798603878911,
+        "forgetting": 0
+    },
+    {
+        "config_id": 1,
+        "experience": 2,
+        "config": {
+            "USE_TTA": false
+        },
+        "accuracy": 0.9820538384845464,
+        "loss": 0.04333478183450115,
+        "forgetting": 0
+    },
+    {
+        "config_id": 1,
+        "experience": 3,
+        "config": {
+            "USE_TTA": false
+        },
+        "accuracy": 0.9004652708541043,
+        "loss": 2.4278343096910544,
+        "forgetting": 0
+    },
+    {
+        "config_id": 1,
+        "experience": 4,
+        "config": {
+            "USE_TTA": false
+        },
+        "accuracy": 0.8777002326354271,
+        "loss": 4.750117045341123,
+        "forgetting": 0
+    },
+    {
+        "config_id": 1,
+        "experience": 5,
+        "config": {
+            "USE_TTA": false
+        },
+        "accuracy": 0.8916583582585577,
+        "loss": 1.6072181381275632,
+        "forgetting": 0
+    },
+    {
+        "config_id": 1,
+        "experience": 6,
+        "config": {
+            "USE_TTA": false
+        },
+        "accuracy": 0.9327018943170489,
+        "loss": 2.012750048323545,
+        "forgetting": 0
+    },
+    {
+        "config_id": 1,
+        "experience": 7,
+        "config": {
+            "USE_TTA": false
+        },
+        "accuracy": 0.9327018943170489,
+        "loss": 1.9761105097035132,
+        "forgetting": 0
+    },
+    {
+        "config_id": 1,
+        "experience": 8,
+        "config": {
+            "USE_TTA": false
+        },
+        "accuracy": 0.8780325689597873,
+        "loss": 13.774017502921307,
+        "forgetting": 0
+    },
+    {
+        "config_id": 1,
+        "experience": 9,
+        "config": {
+            "USE_TTA": false
+        },
+        "accuracy": 0.8765370555001661,
+        "loss": 22.434528654396512,
+        "forgetting": 0
+    },
+    {
+        "config_id": 1,
+        "experience": 10,
+        "config": {
+            "USE_TTA": false
+        },
+        "accuracy": 0.9159189099368561,
+        "loss": 8.375683875229834,
+        "forgetting": 0
+    }
+]

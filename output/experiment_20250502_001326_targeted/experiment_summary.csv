@@ -1,0 +1,56 @@
+config_id,experience,config,accuracy,loss,forgetting
+0,0,"{'name': 'Baseline', 'USE_TTA': False, 'STRATEGY': 'Naive', 'PLUGIN': False}",0.9323695579926886,0.15136185438288471,0
+0,1,"{'name': 'Baseline', 'USE_TTA': False, 'STRATEGY': 'Naive', 'PLUGIN': False}",0.4426719840478564,20.356868963952316,0
+0,2,"{'name': 'Baseline', 'USE_TTA': False, 'STRATEGY': 'Naive', 'PLUGIN': False}",0.10186108341641742,3607.519032091348,0
+0,3,"{'name': 'Baseline', 'USE_TTA': False, 'STRATEGY': 'Naive', 'PLUGIN': False}",0.1023595879029578,4263.806879998838,0
+0,4,"{'name': 'Baseline', 'USE_TTA': False, 'STRATEGY': 'Naive', 'PLUGIN': False}",0.10335659687603856,14087.491948389856,0
+0,5,"{'name': 'Baseline', 'USE_TTA': False, 'STRATEGY': 'Naive', 'PLUGIN': False}",0.17032236623462946,574.37038400586,0
+0,6,"{'name': 'Baseline', 'USE_TTA': False, 'STRATEGY': 'Naive', 'PLUGIN': False}",0.09305417082087072,2480.4798976585057,0
+0,7,"{'name': 'Baseline', 'USE_TTA': False, 'STRATEGY': 'Naive', 'PLUGIN': False}",0.11748089066134929,423.7403466784705,0
+0,8,"{'name': 'Baseline', 'USE_TTA': False, 'STRATEGY': 'Naive', 'PLUGIN': False}",0.0967098703888335,241.93911355228747,0
+0,9,"{'name': 'Baseline', 'USE_TTA': False, 'STRATEGY': 'Naive', 'PLUGIN': False}",0.10219341974077767,198.5061989324994,0
+0,10,"{'name': 'Baseline', 'USE_TTA': False, 'STRATEGY': 'Naive', 'PLUGIN': False}",0.10335659687603856,211.3698310471722,0
+1,0,"{'name': 'Replay + Dynamic Buffer', 'USE_TTA': False, 'STRATEGY': 'Replay', 'PLUGIN': True, 'MEM_SIZE': 50}",0.9139248919906946,0.4455784737723863,0
+1,1,"{'name': 'Replay + Dynamic Buffer', 'USE_TTA': False, 'STRATEGY': 'Replay', 'PLUGIN': True, 'MEM_SIZE': 50}",0.732967763376537,0.7941849099969668,0
+1,2,"{'name': 'Replay + Dynamic Buffer', 'USE_TTA': False, 'STRATEGY': 'Replay', 'PLUGIN': True, 'MEM_SIZE': 50}",0.6791292788301762,3.3811854112301503,0
+1,3,"{'name': 'Replay + Dynamic Buffer', 'USE_TTA': False, 'STRATEGY': 'Replay', 'PLUGIN': True, 'MEM_SIZE': 50}",0.6944167497507477,9.41418516349653,0
+1,4,"{'name': 'Replay + Dynamic Buffer', 'USE_TTA': False, 'STRATEGY': 'Replay', 'PLUGIN': True, 'MEM_SIZE': 50}",0.5880691259554669,2.5385478792707294,0
+1,5,"{'name': 'Replay + Dynamic Buffer', 'USE_TTA': False, 'STRATEGY': 'Replay', 'PLUGIN': True, 'MEM_SIZE': 50}",0.632768361581921,1.9313412853486,0
+1,6,"{'name': 'Replay + Dynamic Buffer', 'USE_TTA': False, 'STRATEGY': 'Replay', 'PLUGIN': True, 'MEM_SIZE': 50}",0.6349285476902625,2.787434172541798,0
+1,7,"{'name': 'Replay + Dynamic Buffer', 'USE_TTA': False, 'STRATEGY': 'Replay', 'PLUGIN': True, 'MEM_SIZE': 50}",0.746095048188767,3.288311912383836,0
+1,8,"{'name': 'Replay + Dynamic Buffer', 'USE_TTA': False, 'STRATEGY': 'Replay', 'PLUGIN': True, 'MEM_SIZE': 50}",0.5872382851445663,2.2922471561344424,0
+1,9,"{'name': 'Replay + Dynamic Buffer', 'USE_TTA': False, 'STRATEGY': 'Replay', 'PLUGIN': True, 'MEM_SIZE': 50}",0.6826188102359588,2.897154515726141,0
+1,10,"{'name': 'Replay + Dynamic Buffer', 'USE_TTA': False, 'STRATEGY': 'Replay', 'PLUGIN': True, 'MEM_SIZE': 50}",0.7627118644067796,2.5384350888917266,0
+2,0,"{'name': 'Replay', 'USE_TTA': False, 'STRATEGY': 'Replay', 'PLUGIN': False, 'MEM_SIZE': 100}",0.9084413426387504,0.2730225002276645,0
+2,1,"{'name': 'Replay', 'USE_TTA': False, 'STRATEGY': 'Replay', 'PLUGIN': False, 'MEM_SIZE': 100}",0.8600864074443336,0.44705469440309104,0
+2,2,"{'name': 'Replay', 'USE_TTA': False, 'STRATEGY': 'Replay', 'PLUGIN': False, 'MEM_SIZE': 100}",0.9111000332336324,0.8625370830085787,0
+2,3,"{'name': 'Replay', 'USE_TTA': False, 'STRATEGY': 'Replay', 'PLUGIN': False, 'MEM_SIZE': 100}",0.7992688600864074,1.8010204147958049,0
+2,4,"{'name': 'Replay', 'USE_TTA': False, 'STRATEGY': 'Replay', 'PLUGIN': False, 'MEM_SIZE': 100}",0.7899634430043204,0.784231411162411,0
+2,5,"{'name': 'Replay', 'USE_TTA': False, 'STRATEGY': 'Replay', 'PLUGIN': False, 'MEM_SIZE': 100}",0.8936523762047192,0.474209150484267,0
+2,6,"{'name': 'Replay', 'USE_TTA': False, 'STRATEGY': 'Replay', 'PLUGIN': False, 'MEM_SIZE': 100}",0.8484546360917248,1.164605762714166,0
+2,7,"{'name': 'Replay', 'USE_TTA': False, 'STRATEGY': 'Replay', 'PLUGIN': False, 'MEM_SIZE': 100}",0.853938185443669,0.7751294331084695,0
+2,8,"{'name': 'Replay', 'USE_TTA': False, 'STRATEGY': 'Replay', 'PLUGIN': False, 'MEM_SIZE': 100}",0.7444333665669658,4.722623910199035,0
+2,9,"{'name': 'Replay', 'USE_TTA': False, 'STRATEGY': 'Replay', 'PLUGIN': False, 'MEM_SIZE': 100}",0.7715187770023264,0.9317914009220626,0
+2,10,"{'name': 'Replay', 'USE_TTA': False, 'STRATEGY': 'Replay', 'PLUGIN': False, 'MEM_SIZE': 100}",0.8361581920903954,0.7391981150610345,0
+3,0,"{'name': 'Replay + Logit Shift', 'USE_TTA': True, 'STRATEGY': 'Replay', 'PLUGIN': False, 'MEM_SIZE': 100, 'LOGIT_SHIFT_FACTOR': 1.0}",0.978896643403124,0.08604844177408977,0
+3,1,"{'name': 'Replay + Logit Shift', 'USE_TTA': True, 'STRATEGY': 'Replay', 'PLUGIN': False, 'MEM_SIZE': 100, 'LOGIT_SHIFT_FACTOR': 1.0}",0.978896643403124,0.04886374062901434,0
+3,2,"{'name': 'Replay + Logit Shift', 'USE_TTA': True, 'STRATEGY': 'Replay', 'PLUGIN': False, 'MEM_SIZE': 100, 'LOGIT_SHIFT_FACTOR': 1.0}",0.978896643403124,0.18420677166378815,0
+3,3,"{'name': 'Replay + Logit Shift', 'USE_TTA': True, 'STRATEGY': 'Replay', 'PLUGIN': False, 'MEM_SIZE': 100, 'LOGIT_SHIFT_FACTOR': 1.0}",0.978896643403124,0.10888210760503286,0
+3,4,"{'name': 'Replay + Logit Shift', 'USE_TTA': True, 'STRATEGY': 'Replay', 'PLUGIN': False, 'MEM_SIZE': 100, 'LOGIT_SHIFT_FACTOR': 1.0}",0.8870056497175142,0.5784521036727314,0
+3,5,"{'name': 'Replay + Logit Shift', 'USE_TTA': True, 'STRATEGY': 'Replay', 'PLUGIN': False, 'MEM_SIZE': 100, 'LOGIT_SHIFT_FACTOR': 1.0}",0.8964772349617813,1.0354632435782503,0
+3,6,"{'name': 'Replay + Logit Shift', 'USE_TTA': True, 'STRATEGY': 'Replay', 'PLUGIN': False, 'MEM_SIZE': 100, 'LOGIT_SHIFT_FACTOR': 1.0}",0.8865071452309737,0.8427508109146726,0
+3,7,"{'name': 'Replay + Logit Shift', 'USE_TTA': True, 'STRATEGY': 'Replay', 'PLUGIN': False, 'MEM_SIZE': 100, 'LOGIT_SHIFT_FACTOR': 1.0}",0.8865071452309737,1.066464032049176,0
+3,8,"{'name': 'Replay + Logit Shift', 'USE_TTA': True, 'STRATEGY': 'Replay', 'PLUGIN': False, 'MEM_SIZE': 100, 'LOGIT_SHIFT_FACTOR': 1.0}",0.9174144233964773,1.138198077233737,0
+3,9,"{'name': 'Replay + Logit Shift', 'USE_TTA': True, 'STRATEGY': 'Replay', 'PLUGIN': False, 'MEM_SIZE': 100, 'LOGIT_SHIFT_FACTOR': 1.0}",0.8983050847457628,0.9529052818354501,0
+3,10,"{'name': 'Replay + Logit Shift', 'USE_TTA': True, 'STRATEGY': 'Replay', 'PLUGIN': False, 'MEM_SIZE': 100, 'LOGIT_SHIFT_FACTOR': 1.0}",0.9072781655034895,0.81815198150089,0
+4,0,"{'name': 'Replay + Weight Shift', 'USE_TTA': True, 'STRATEGY': 'Replay', 'PLUGIN': False, 'MEM_SIZE': 100, 'WEIGHT_SHIFT_FACTOR': 1.0}",0.9627783316716517,0.09863544037935422,0
+4,1,"{'name': 'Replay + Weight Shift', 'USE_TTA': True, 'STRATEGY': 'Replay', 'PLUGIN': False, 'MEM_SIZE': 100, 'WEIGHT_SHIFT_FACTOR': 1.0}",0.9616151545363908,0.09318210226831922,0
+4,2,"{'name': 'Replay + Weight Shift', 'USE_TTA': True, 'STRATEGY': 'Replay', 'PLUGIN': False, 'MEM_SIZE': 100, 'WEIGHT_SHIFT_FACTOR': 1.0}",0.9282153539381854,0.3467359735927063,0
+4,3,"{'name': 'Replay + Weight Shift', 'USE_TTA': True, 'STRATEGY': 'Replay', 'PLUGIN': False, 'MEM_SIZE': 100, 'WEIGHT_SHIFT_FACTOR': 1.0}",0.9182452642073778,0.37176181975318146,0
+4,4,"{'name': 'Replay + Weight Shift', 'USE_TTA': True, 'STRATEGY': 'Replay', 'PLUGIN': False, 'MEM_SIZE': 100, 'WEIGHT_SHIFT_FACTOR': 1.0}",0.9521435692921236,0.23451258147356865,0
+4,5,"{'name': 'Replay + Weight Shift', 'USE_TTA': True, 'STRATEGY': 'Replay', 'PLUGIN': False, 'MEM_SIZE': 100, 'WEIGHT_SHIFT_FACTOR': 1.0}",0.9426719840478565,0.19919685015462962,0
+4,6,"{'name': 'Replay + Weight Shift', 'USE_TTA': True, 'STRATEGY': 'Replay', 'PLUGIN': False, 'MEM_SIZE': 100, 'WEIGHT_SHIFT_FACTOR': 1.0}",0.9616151545363908,0.16588409470004195,0
+4,7,"{'name': 'Replay + Weight Shift', 'USE_TTA': True, 'STRATEGY': 'Replay', 'PLUGIN': False, 'MEM_SIZE': 100, 'WEIGHT_SHIFT_FACTOR': 1.0}",0.942173479561316,0.16654868619367066,0
+4,8,"{'name': 'Replay + Weight Shift', 'USE_TTA': True, 'STRATEGY': 'Replay', 'PLUGIN': False, 'MEM_SIZE': 100, 'WEIGHT_SHIFT_FACTOR': 1.0}",0.8572615486872716,0.3947373588904669,0
+4,9,"{'name': 'Replay + Weight Shift', 'USE_TTA': True, 'STRATEGY': 'Replay', 'PLUGIN': False, 'MEM_SIZE': 100, 'WEIGHT_SHIFT_FACTOR': 1.0}",0.9180790960451978,0.6647380690260717,0
+4,10,"{'name': 'Replay + Weight Shift', 'USE_TTA': True, 'STRATEGY': 'Replay', 'PLUGIN': False, 'MEM_SIZE': 100, 'WEIGHT_SHIFT_FACTOR': 1.0}",0.9268860086407444,1.0174013434007114,0
